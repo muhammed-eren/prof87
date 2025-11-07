@@ -15,9 +15,10 @@ Oyuncu, insanlığın son direnişine yön veriyor ve yapay zekanın hükmüne k
 
 ## 📸 Ekran Görüntüleri
 
-![Main Menu]([https://via.placeholder.com/800x400?text=Ana+Men%C3%BC](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20005910.png))
-![Gameplay]([https://via.placeholder.com/800x400?text=Oyun+%C4%B0%C3%A7i+Sahne](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20010725.png))
-![Gameplay2]([[https://via.placeholder.com/800x400?text=Oyun+%C4%B0%C3%A7i+Sahne](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20010725.png](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20011126.png)))
+![Main Menu](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20005910.png?raw=true)
+![Gameplay](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20010725.png?raw=true)
+![Gameplay2](https://github.com/muhammed-eren/prof87/blob/main/Ekran%20görüntüsü%202025-10-30%20011126.png?raw=true)
+
 
 ---
 
